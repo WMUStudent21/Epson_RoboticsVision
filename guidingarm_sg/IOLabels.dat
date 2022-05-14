@@ -1,0 +1,49 @@
+ENVT0100,LM:2022/05/11 19:40:00:091,DS:0000000764,CS:16489,MA:D4-BE-D9-11-48-31,EI:           
+sRCVersion="7.5.1"
+InputBitLabels {
+	nNumberOfLabels=2
+	Label1 {
+		nBit=9
+		sLabel="ok2dispense"
+		sDescription=""
+	}
+	Label2 {
+		nBit=10
+		sLabel="adCamera"
+		sDescription=""
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=2
+	Label1 {
+		nBit=9
+		sLabel="dipsense"
+		sDescription=""
+	}
+	Label2 {
+		nBit=10
+		sLabel="ok2inspect"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=0
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}
