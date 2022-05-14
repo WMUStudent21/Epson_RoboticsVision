@@ -5,7 +5,7 @@ Epson Workshop - 4/6-axis robot arm with overhead 2MP camera (25mm lens).
 ## GuidingArm (Spatial Guidance)
 Teaching spatial awareness to robot arm to perform tasks without camera.
 
-## Robotic vision
+## Robotic Vision
 Calibrating a given guardian/work envelope for robot activity overseen by a camera (eye).
 
   ### Colour Caps
